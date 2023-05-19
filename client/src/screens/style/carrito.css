@@ -1,0 +1,46 @@
+.botondelete{
+    border: none;
+}
+
+.table{
+    background-color: #f0f0f0;
+}
+
+#delete{
+    color: red;
+
+    
+}
+
+.container-carrito{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.carritoletra{
+    color: white !important;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 35px;
+}
+#mensaje_no_existe{
+    color: red !important;
+    font-size: 30px;
+}
+
+.procesarcompra{
+    color: white !important;
+    background-color: #212529 !important;
+    border: 1px solid #212529 !important;
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+
+}
+
+#tabla{
+    background-color: #212529 !important;
+    color: white !important;
+}
